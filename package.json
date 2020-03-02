@@ -34,7 +34,7 @@
   "main": "./lib",
   "dependencies": {
     "base64url": "3.x.x",
-    "oauth": "FedWiki/node-oauth#ba35bd335862255d7cd31d4701d120bef4ba3578",
+    "oauth": "kubesail/node-oauth#ba35bd335862255d7cd31d4701d120bef4ba3578",
     "passport-strategy": "1.x.x",
     "uid2": "0.0.x",
     "utils-merge": "1.x.x"
