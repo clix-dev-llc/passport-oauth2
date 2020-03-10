@@ -34,7 +34,7 @@
   "main": "./lib",
   "dependencies": {
     "base64url": "3.x.x",
-    "oauth": "kubesail/node-oauth#ba35bd335862255d7cd31d4701d120bef4ba3578",
+    "oauth": "kubesail/node-oauth#ae4c17836203ce58ef732b6ac8b0e9ea23e848b5",
     "passport-strategy": "1.x.x",
     "uid2": "0.0.x",
     "utils-merge": "1.x.x"
